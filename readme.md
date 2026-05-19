@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👀 I’m interested in software development<br>🌱 I’m currently learning c++ and data structure<br>💞️ I’m looking to collaborate on web devolpment<br>📫 How to reach me piyushjmj007gmail.com<br>😄 Pronouns: he/him</p>
+<p align="left">👀 I’m interested in software development<br>🌱 I’m currently doing data structure<br>💞️ I’m looking to collaborate on web devolpment<br>📫 How to reach me piyushjmj007gmail.com<br>😄 Pronouns: he/him</p>
 
 ###
 
